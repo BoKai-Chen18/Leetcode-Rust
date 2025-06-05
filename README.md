@@ -1,2 +1,2 @@
 # Leetcode-Practice-Rust
-Practicing Rust by solving LeetCode problems — progress tracked here!
+📘Practicing Rust by solving LeetCode problems — progress tracked here!
